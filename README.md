@@ -7,3 +7,5 @@ Refactor &amp; play with code based off of tutorial: https://youtu.be/DNPVqK_woR
 * Setup the database ('relay', since this is just playing around with a tutorial).
 * `npm install`
 * `babel-node src/server`
+
+![demo](https://raw.githubusercontent.com/milroc/play-with-node-graphql/master/graphql.gif)

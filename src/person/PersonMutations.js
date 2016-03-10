@@ -1,5 +1,6 @@
 import {GraphQLString, GraphQLNonNull} from 'graphql';
 
+import db from '../db';
 import PersonType from './PersonType';
 
 export const addPerson = {
